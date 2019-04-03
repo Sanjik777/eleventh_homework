@@ -1,0 +1,6 @@
+C:\Users\Санжар\source\repos\eleventh_homework\eleventh_homework\bin\Debug\eleventh_homework.exe
+C:\Users\Санжар\source\repos\eleventh_homework\eleventh_homework\bin\Debug\eleventh_homework.pdb
+C:\Users\Санжар\source\repos\eleventh_homework\eleventh_homework\obj\Debug\eleventh_homework.csprojResolveAssemblyReference.cache
+C:\Users\Санжар\source\repos\eleventh_homework\eleventh_homework\obj\Debug\eleventh_homework.csproj.CoreCompileInputs.cache
+C:\Users\Санжар\source\repos\eleventh_homework\eleventh_homework\obj\Debug\eleventh_homework.exe
+C:\Users\Санжар\source\repos\eleventh_homework\eleventh_homework\obj\Debug\eleventh_homework.pdb
